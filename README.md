@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭  I’m currently working on Innovattic in the Netherlands
+- 🔭  I’m currently working on Databank in S.Korea
 - 🌱  I’m currently learning NextJS, Firebase, Accessibility, Design system and etc.
 <!--
 - 👯 I’m looking to collaborate on ...
