@@ -9,3 +9,6 @@
 
 3. English with Lucy: https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA
 - offers a short video weekly, including Grammer, Vocabulary, Pronunciation and so on.
+
+4. Learning English with TV series: https://www.youtube.com/channel/UCKgpamMlm872zkGDcBJHYDg
+- educate English using TV series such Friends, which means learn English with Native-speed and expressions.
