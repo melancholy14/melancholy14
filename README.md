@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭  I’m currently working on Databank in S.Korea
+- 🔭  I'm currently working as a lead frontend engineer for Databank in S.Korea
 - 🌱  I’m currently learning NextJS, Firebase, Accessibility, Design system and etc.
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <!--
 - 😄 Pronouns: ...
 -->
-- ⚡  Fun fact: My name sounds like `Miso` (one of the most famous Japanese soups)
+- ⚡  Fun fact: My name sounds like `Missile` or `Miso` (one of the most famous Japanese soups)
