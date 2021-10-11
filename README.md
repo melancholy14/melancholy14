@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - ⚡  Fun fact: My name sounds like `Missile` or `Miso` (one of the most famous Japanese soups)
+
+<!--
+  By https://github.com/ryo-ma/github-profile-trophy
+-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=melancholy14&theme=discord&margin-w=5&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
