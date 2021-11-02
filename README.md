@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melancholy14)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melancholy14&show_icons=true&theme=tokyonight&hide_title=true" alt="Misol's github stats" height="185px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melancholy14&theme=dracula&layout=compact&card_width=300" alt="Misol's Top Langs" height="185px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melancholy14&show_icons=true&theme=tokyonight&hide_title=true" alt="Misol's github stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melancholy14&theme=dracula&layout=compact&card_width=300" alt="Misol's Top Langs" height="150px" />
 </div>
