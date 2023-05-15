@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭  I'm currently working as a lead frontend engineer for Databank in S.Korea
-- 🌱  I’m currently learning NextJS, Firebase, Accessibility, Design system and etc.
+- 🔭  I'm currently working as a senior frontend engineer for Kurly in S.Korea
+- 🌱  I’m into learning NextJS, Firebase, Accessibility, Design system and etc.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--
 - 😄 Pronouns: ...
 -->
-- ⚡  Fun fact: My name sounds like `Missile` or `Miso` (one of the most famous Japanese soups)
+- ⚡  Fun fact: My name sounds like `Missile` or `Miso` (Yes, right! Japanese soup!)
 
 <!--
   By https://github.com/ryo-ma/github-profile-trophy
